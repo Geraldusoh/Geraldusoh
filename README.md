@@ -1,4 +1,4 @@
-# Hi, I'm Ehimwenma (Gerald) Usoh
+# Hi, I'm Ehimwenma Usoh
 
 ### Business Analysis · AI Evaluation · Quality Assurance
 
